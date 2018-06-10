@@ -4,7 +4,7 @@ A computer security demonstration
 
 ### Description
 
-A comparison of compute times for collision and pre-image hash attacks. A docker-build system is included for cross-platform development and isolation. It also faciliates the rebuilding process whenever a change is made to source files.
+A comparison of compute times for collision and pre-image hash attacks.
 
 ### Contributors
 
